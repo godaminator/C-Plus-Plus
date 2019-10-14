@@ -1,0 +1,4 @@
+1.)simple c++ functions like math, seive of , prime factorization........
+2.)understanding of the datastructures.
+3.)familar design concepts
+4.)specific algorithms
